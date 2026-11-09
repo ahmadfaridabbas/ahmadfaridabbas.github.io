@@ -41,7 +41,7 @@
   <!-- eyebrow -->
   <g transform="translate(80,236)">
     <circle cx="6" cy="-6" r="6" fill="#d6f985"/>
-    <text x="22" y="0" font-family="'JetBrains Mono',monospace" font-size="20" letter-spacing="2" fill="#d6f985">ENGINEER / QA LEADER / SOFTWARE BUILDER</text>
+    <text x="22" y="0" font-family="'JetBrains Mono',monospace" font-size="20" letter-spacing="2" fill="#d6f985">REMOTE QA LEAD FOR SAAS / SENIOR QA AUTOMATION ENGINEER</text>
   </g>
 
   <!-- name / headline -->
@@ -52,15 +52,15 @@
   <g font-family="'JetBrains Mono',monospace" font-size="19" fill="#b4bcb1">
     <g transform="translate(80,502)">
       <rect x="0" y="-26" width="196" height="40" rx="20" fill="#191d19" stroke="#333c32"/>
-      <text x="22" y="0">Native macOS</text>
+      <text x="22" y="0">SaaS testing</text>
     </g>
     <g transform="translate(292,502)">
       <rect x="0" y="-26" width="236" height="40" rx="20" fill="#191d19" stroke="#333c32"/>
-      <text x="22" y="0">Quality engineering</text>
+      <text x="22" y="0">API automation</text>
     </g>
     <g transform="translate(544,502)">
-      <rect x="0" y="-26" width="236" height="40" rx="20" fill="#191d19" stroke="#333c32"/>
-      <text x="22" y="0">Automation &amp; AI</text>
+      <rect x="0" y="-26" width="292" height="40" rx="20" fill="#191d19" stroke="#333c32"/>
+      <text x="22" y="0">Freelance &amp; full-time</text>
     </g>
   </g>
 
